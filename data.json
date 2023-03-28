@@ -1,0 +1,80 @@
+{
+    "data":[
+        {
+            "image":"https://www.tcs.com/content/dam/global-tcs/en/images/what-we-do/industries/life-sciences/case-study/doctors-chatting-web.png/jcr:content/renditions/cq5dam.thumbnail.480.480.png",
+            "title":"TCS Systech Partner Serialization Solutions Life Sciences",
+            "description":"Systech International announces its partnership with TCS to supply the life sciences industry with an effective and economic means of implementing their serialization programs.",
+            "tag":"News"
+        },
+        {
+            "image":"https://www.tcs.com/content/dam/global-tcs/en/images/what-we-do/products-platforms/products/TCS-BaNCS/newsletters/newsletters-35-card.png/jcr:content/renditions/cq5dam.thumbnail.480.480.png",
+            "title":"TCS BaNCS Customer Newsletter and Insights",
+            "description":"The newsletter features insights about our customers implementing TCS BaNCS and how our enterprise payments solution has helped banks achieve transformation.",
+            "tag": "Report"
+        },
+        {
+            "image":"https://www.tcs.com/content/dam/global-tcs/en/images/discover-tcs/Research-and-innovation/White-papers/analyst-report-web.jpg/jcr:content/renditions/cq5dam.thumbnail.480.480.png",
+            "title":"TCS Winner of 2014 Blueprint report by HfS Research",
+            "description":"This report recognizes TCS ability in delivering to Telcos of all sizes, and demonstrated expertise in social, mobility, analytics, cloud, and automation (SMACA).",
+            "tag":"News"
+        },
+        
+        {
+            "image":"https://www.tcs.com/content/dam/global-tcs/en/images/what-we-do/services/cloud/solutions/google-cloud-migration-digital-transformation-web.png/jcr:content/renditions/cq5dam.thumbnail.480.480.png",
+            "title":"TCS Cloud Migration Services on Google Cloud for Secure Migration",
+            "description":"As businesses embark on application modernization and cloud transformation journeys, TCS’ solution helps reduce migration timelines and unlock better value.",
+            "tag":"Solution"
+        },
+        {
+            "image":"https://www.tcs.com/content/dam/global-tcs/en/images/what-we-do/industries/life-sciences/whitepaper/ensuring-compliance-cloud-risk-management-guide-for-life-sciences-organizations.jpg/jcr:content/renditions/cq5dam.thumbnail.480.480.png",
+            "title": "Ensure Compliance for Cloud: A Risk Management Guide for Life Sciences",
+            "description": "Redefining Life Sciences IT Delivery and Management with Cloud",
+            "tag" : "Blog"
+        },
+        {
+            "image":"https://www.tcs.com/content/dam/global-tcs/en/images/who-we-are/alliances-.png/jcr:content/renditions/cq5dam.thumbnail.480.480.png",
+            "title":"TCS’ Industry Solution on Google Cloud to Empower Enterprises",
+            "description":"Using TCS' industry solutions on Google Cloud, read how enterprises can benefit from cloud migration, application modernization, and other services.",
+            "tag":"Solution"
+        },
+        {
+            "image":"https://www.tcs.com/content/dam/global-tcs/en/images/what-we-do/products-platforms/products/TCS-BaNCS/newsletters/Newsletter-32-card.png/jcr:content/renditions/cq5dam.thumbnail.480.480.png",
+            "title":"TCS BaNCS Customer Newsletter – Edition 32",
+            "description":"Read the TCS BaNCS magazine and newsletter and know our customer stories from South Africa, Bahrain, the US, Indonesia, the Nordics, Saudi Arabia, and Israel.",
+            "tag":"Report"
+        },
+        {
+            "image":"https://www.tcs.com/content/dam/global-tcs/en/images/insights/blogs/banner/lifescience-Web.jpg/jcr:content/renditions/cq5dam.thumbnail.480.480.png",
+            "title":"TCS interactive Life Sciences on MM&M Top 100 List",
+            "description":"Every year MM&M magazine ranks the top 100 pharmaceutical marketing companies by revenue. TCS interactive Life Sciences is honored to be named to that list.",
+            "tag":"News"
+        },
+        {
+            "image":"https://www.tcs.com/content/dam/global-tcs/en/images/what-we-do/pace/article/agile-innovation-cloud-aic-model-innovation-at-scale-web.jpg/jcr:content/renditions/cq5dam.thumbnail.480.480.png",
+            "title":"TCS Cloud 10 Methodology: Assessment of Cloud Platform Simplified",
+            "description":"Read how TCS Cloud 10 Methodology is an effective tool to help enterprises select a cloud service provider, enabling them to formulate a cloud solution strategy.",
+            "tag":"Solution"
+        },
+        {
+            "image":"https://www.tcs.com/content/dam/global-tcs/en/images/insights/blogs/career-at-tcs-blog-card.jpg/jcr:content/renditions/cq5dam.thumbnail.480.480.png",
+            "title": "Career at TCS: Map Out Your Tech-driven Personalized Journey",
+            "description": "From continuous learning to technological connections, TCS offers employees curated programmes that will help them fast-track their digital careers.",
+            "tag" : "Blog"
+        },
+        
+        {
+            "image":"https://www.tcs.com/content/dam/global-tcs/en/images/who-we-are/Worldwide/north-america/nyc-marathon-hero.png/jcr:content/renditions/cq5dam.thumbnail.480.480.png",
+            "title":"TCS New York City Marathon: Living the Experience with TCS Livestream",
+            "description":"With the TCS app livestream, global fans of the NYC marathon were able to watch the race of their choice and witness athletes excel on the NYC track. Know more.",
+            "tag":"Blog"
+        },
+        
+        
+        {
+            "image":"https://www.tcs.com/content/dam/global-tcs/en/images/who-we-are/tcs-way-resized.png/jcr:content/renditions/cq5dam.thumbnail.480.480.png",
+            "title":"On Transformational vs. Safety-conscious Cloud Adoption",
+            "description":"Read about the benefits of transformational and safety-conscious cloud adoption and know which approach is better for cost saving, reliability, and scalability.",
+            "tag":"Report"
+        }
+    ]
+}
